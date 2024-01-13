@@ -1,13 +1,12 @@
-** Compilateur pour le langage CPYRR **
+** Compiler for the CPYRR language **
 
-- Définition d'une syntaxe, sémantique pour le langage CPYRR
-- Analyse syntaxique, sémantique et remplissages des tables lexico., de déclarations, etc...
-- Transformation du code CPYRR en arbre abstrait d'instructions
-- Lecture de l'arbre abstrait via la pile a l'éxécution (Machine Virtuelle)
+- Definition of syntax and semantics for the CPYRR language
+- Syntax and semantic analysis and filling of lexical tables, declarations, etc...
+- Transformation of CPYRR code into abstract instruction tree
+- Reading the abstract tree via the stack at runtime (Virtual Machine)
 
-Makefile : 
-make : création de l'éxécutable
-make clean : nettoyage
+Makefile : make : create executable make clean : clean up
 
-Executable : 
-./compilateur <programmes/sous-dossier/nom_du_prog.cp> <-t (affich. tables)> <-a (affich. arbres)> <-p (affich.pile)> <-e (execution du programme)>
+Executable : ./compiler <programmes/subfolder/prog_name.cp> <-t (display. tables)> <-a (display. trees)> <-p (display.stack)> <-e (program execution)>
+
+Translated with DeepL.com (free version)
