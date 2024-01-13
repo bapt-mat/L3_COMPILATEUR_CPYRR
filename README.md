@@ -8,5 +8,3 @@
 Makefile : make : create executable make clean : clean up
 
 Executable : ./compiler <programmes/subfolder/prog_name.cp> <-t (display. tables)> <-a (display. trees)> <-p (display.stack)> <-e (program execution)>
-
-Translated with DeepL.com (free version)
