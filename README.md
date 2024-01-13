@@ -13,7 +13,7 @@ Executable :
 ./compilateur <programmes/subfolder/prog_name.cp> <-t (display. tables)> <-a (display. trees)> <-p (display.stack)> <-e (program execution)>
 
 Authors :
--Mathevon Baptiste
--Yasser Assal
--Yildiz Tolga
--Gunes Ozan
+- Mathevon Baptiste
+- Yasser Assal
+- Yildiz Tolga
+- Gunes Ozan
