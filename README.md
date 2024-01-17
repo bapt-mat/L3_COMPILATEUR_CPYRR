@@ -4,6 +4,7 @@
 - Syntax and semantic analysis and filling of lexical tables, declarations, etc...
 - Transformation of CPYRR code into abstract instruction tree
 - Reading the abstract tree via the stack at runtime (Virtual Machine)
+- Executing the CPYRR code with the Virtual Machine (examples in the dir. programmes/prog_fonctionnels/)
 
 Makefile : 
 - make : create executable 
